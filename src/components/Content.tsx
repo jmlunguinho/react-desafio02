@@ -1,5 +1,6 @@
 import { Header } from './Header';
 import { MovieCard } from './MovieCard';
+import '../styles/content.scss';
 
 interface MovieProps {
   imdbID: string;
